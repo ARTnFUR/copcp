@@ -261,4 +261,7 @@ body {
     .thumbnail img{
       width: 100%;
     }
+    .qrcode {
+      width: 50%;
+    }
   }
